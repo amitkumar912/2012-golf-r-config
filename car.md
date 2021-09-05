@@ -1,15 +1,15 @@
-99265
+99335
 
 OBDeleven data log
 
-Date: 2021-09-04 13:14
+Date: 2021-09-05 15:15
 
     VIN: WVWPF7AJ2CW211134
     Car: Volkswagen Golf R
     Year: 2012
     Body type: 5-dr hatchback
     Engine: CRZA
-    Mileage: 159750 KM
+    Mileage: 159860 KM
 
 ---------------------------------------------------------------
 01 Engine
@@ -21,13 +21,7 @@ Date: 2021-09-04 13:14
     Long coding: 0403010A180F0160
 
     Trouble codes:
-        P052A - Cold Start "A" Camshaft Position Timing Over-Advanced Upper limit exceeded
-            Intermittent
-                Priority:  2
-                Frequency counter:  1
-                Driving cycle: 255
-                Mileage: 159128 km
-
+        No trouble codes found
 
 ---------------------------------------------------------------
 03 Brakes
@@ -98,19 +92,7 @@ Date: 2021-09-04 13:14
         Long coding: 009795
 
     Trouble codes:
-        00061 - Footwell lights Open circuit/short circuit to B+
-            Intermittent
-                Priority:  5
-                Frequency counter: 14
-                Driving cycle: 25
-                Mileage: 158511 km
-        01518 - Left back-up light bulb Open circuit/short circuit to B+
-            Intermittent
-                Priority:  2
-                Frequency counter:  1
-                Driving cycle: 254
-                Mileage: 159026 km
-
+        No trouble codes found
 
 ---------------------------------------------------------------
 15 Airbag
@@ -303,11 +285,10 @@ Date: 2021-09-04 13:14
     Trouble codes:
         B11CF53 - Tuner for satellite radio Deactivated
             static
-                Date: 2109-12-27 15:10:02
-                Mileage: 158014 km
+                Mileage: 159754 km
                 Priority: 7
                 Malfunction frequency counter: 1
-                Unlearning counter: 203
+                Unlearning counter: 240
         B200042 - Ctrl. module faulty
             static
                 Date: 2087-12-29 20:18:56

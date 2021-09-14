@@ -1,15 +1,15 @@
-98184
+99265
 
 OBDeleven data log
 
-Date: 2021-07-29 15:07
+Date: 2021-09-04 13:14
 
     VIN: WVWPF7AJ2CW211134
     Car: Volkswagen Golf R
     Year: 2012
     Body type: 5-dr hatchback
     Engine: CRZA
-    Mileage: 158010 KM
+    Mileage: 159750 KM
 
 ---------------------------------------------------------------
 01 Engine
@@ -21,12 +21,12 @@ Date: 2021-07-29 15:07
     Long coding: 0403010A180F0160
 
     Trouble codes:
-        P0328 - Knock Sensor 1 Circ. High Input Upper limit exceeded
+        P052A - Cold Start "A" Camshaft Position Timing Over-Advanced Upper limit exceeded
             Intermittent
                 Priority:  2
                 Frequency counter:  1
                 Driving cycle: 255
-                Mileage: 157714 km
+                Mileage: 159128 km
 
 
 ---------------------------------------------------------------
@@ -101,9 +101,15 @@ Date: 2021-07-29 15:07
         00061 - Footwell lights Open circuit/short circuit to B+
             Intermittent
                 Priority:  5
-                Frequency counter: 102
-                Driving cycle: 238
-                Mileage: 154020 km
+                Frequency counter: 14
+                Driving cycle: 25
+                Mileage: 158511 km
+        01518 - Left back-up light bulb Open circuit/short circuit to B+
+            Intermittent
+                Priority:  2
+                Frequency counter:  1
+                Driving cycle: 254
+                Mileage: 159026 km
 
 
 ---------------------------------------------------------------
@@ -297,11 +303,11 @@ Date: 2021-07-29 15:07
     Trouble codes:
         B11CF53 - Tuner for satellite radio Deactivated
             static
-                Date: 2105-12-18 12:00:53
-                Mileage: 154003 km
+                Date: 2109-12-27 15:10:02
+                Mileage: 158014 km
                 Priority: 7
                 Malfunction frequency counter: 1
-                Unlearning counter: 106
+                Unlearning counter: 203
         B200042 - Ctrl. module faulty
             static
                 Date: 2087-12-29 20:18:56
@@ -419,6 +425,4 @@ Date: 2021-07-29 15:07
     Trouble codes:
         No trouble codes found
 
-  
-![](Screenshot_20210729-150850.png)
-![](Screenshot_20210729-150928.png)
+ 

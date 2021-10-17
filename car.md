@@ -2,7 +2,7 @@
 
 OBDeleven data log
 
-Date: 2021-10-15 22:39
+Date: 2021-10-17 13:24
 
     VIN: WVWPF7AJ2CW211134
     Car: Volkswagen Golf R
@@ -92,19 +92,7 @@ Date: 2021-10-15 22:39
         Long coding: 009795
 
     Trouble codes:
-        00061 - Footwell lights Open circuit/short circuit to B+
-            Intermittent
-                Priority:  5
-                Frequency counter: 39
-                Driving cycle: 65
-                Mileage: 159873 km
-        01518 - Left back-up light bulb Open circuit/short circuit to B+
-            static
-                Priority:  2
-                Frequency counter:  1
-                Driving cycle: 25
-                Mileage: 161055 km
-
+        No trouble codes found
 
 ---------------------------------------------------------------
 15 Airbag
@@ -297,17 +285,8 @@ Date: 2021-10-15 22:39
     Trouble codes:
         B11CF53 - Tuner for satellite radio Deactivated
             static
-                Mileage: 159754 km
-                Priority: 7
-                Malfunction frequency counter: 1
-                Unlearning counter: 240
         B200042 - Ctrl. module faulty
             static
-                Date: 2087-12-29 20:18:56
-                Mileage: 143065 km
-                Priority: 4
-                Malfunction frequency counter: 1
-                Unlearning counter: 255
 
 
 ---------------------------------------------------------------

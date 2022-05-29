@@ -1,15 +1,15 @@
-100073
-
+103010
+Full scan pre clear, pre feature changes
 OBDeleven data log
 
-Date: 2021-10-17 13:24
+Date: 2022-05-22 13:02
 
     VIN: WVWPF7AJ2CW211134
     Car: Volkswagen Golf R
     Year: 2012
     Body type: 5-dr hatchback
     Engine: CRZA
-    Mileage: 161050 KM
+    Mileage: 165780 KM
 
 ---------------------------------------------------------------
 01 Engine
@@ -92,7 +92,13 @@ Date: 2021-10-17 13:24
         Long coding: 009795
 
     Trouble codes:
-        No trouble codes found
+        00061 - Footwell lights Open circuit/short circuit to B+
+            Intermittent
+                Priority:  5
+                Frequency counter: 254
+                Driving cycle:  1
+                Mileage: 161892 km
+
 
 ---------------------------------------------------------------
 15 Airbag
@@ -285,8 +291,18 @@ Date: 2021-10-17 13:24
     Trouble codes:
         B11CF53 - Tuner for satellite radio Deactivated
             static
+                Date: 2113-12-13 23:29:24
+                Mileage: 161892 km
+                Priority: 7
+                Malfunction frequency counter: 1
+                Unlearning counter: 57
         B200042 - Ctrl. module faulty
             static
+                Date: 2087-12-29 20:18:56
+                Mileage: 143065 km
+                Priority: 4
+                Malfunction frequency counter: 1
+                Unlearning counter: 255
 
 
 ---------------------------------------------------------------

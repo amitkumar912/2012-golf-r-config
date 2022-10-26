@@ -1,15 +1,15 @@
-104067 miles
+105909 miles
 
 OBDeleven data log
 
-Date: 2022-07-16 11:19
+Date: 2022-10-22 16:20
 
     VIN: WVWPF7AJ2CW211134
     Car: Volkswagen Golf R
     Year: 2012
     Body type: 5-dr hatchback
     Engine: CRZA
-    Mileage: 167480 KM
+    Mileage: 170440 KM
 
 ---------------------------------------------------------------
 01 Engine
@@ -95,9 +95,15 @@ Date: 2022-07-16 11:19
         00061 - Footwell lights Open circuit/short circuit to B+
             Intermittent
                 Priority:  5
-                Frequency counter: 52
-                Driving cycle: 90
-                Mileage: 165803 km
+                Frequency counter: 105
+                Driving cycle: 216
+                Mileage: 168542 km
+        01518 - Left back-up light bulb Open circuit/short circuit to B+
+            Intermittent
+                Priority:  2
+                Frequency counter:  3
+                Driving cycle: 216
+                Mileage: 169208 km
 
 
 ---------------------------------------------------------------
@@ -289,6 +295,13 @@ Date: 2022-07-16 11:19
         Software version: 0002
 
     Trouble codes:
+        B11CF53 - Tuner for satellite radio Deactivated
+            static
+                Date: 2122-12-10 08:53:14
+                Mileage: 169255 km
+                Priority: 7
+                Malfunction frequency counter: 1
+                Unlearning counter: 129
         B200042 - Ctrl. module faulty
             static
                 Date: 2087-12-29 20:18:56

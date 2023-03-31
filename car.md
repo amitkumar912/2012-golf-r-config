@@ -1,15 +1,14 @@
-105909 miles
-
 OBDeleven data log
 
-Date: 2022-10-22 16:20
+Date: 2023-03-28 12:12
 
     VIN: WVWPF7AJ2CW211134
     Car: Volkswagen Golf R
     Year: 2012
     Body type: 5-dr hatchback
     Engine: CRZA
-    Mileage: 170440 KM
+    Mileage: 176210 KM
+109491 miles 
 
 ---------------------------------------------------------------
 01 Engine
@@ -21,7 +20,12 @@ Date: 2022-10-22 16:20
     Long coding: 0403010A180F0160
 
     Trouble codes:
-        No trouble codes found
+        P1602 - Power supply terminal 30 Voltage too low Lower limit not reached
+            Intermittent
+                Priority:  2
+                Frequency counter:  2
+                Driving cycle: 255
+
 
 ---------------------------------------------------------------
 03 Brakes
@@ -34,7 +38,13 @@ Date: 2022-10-22 16:20
     Long coding: 144B800C492300FB280C01E7921D0041B70000
 
     Trouble codes:
-        No trouble codes found
+        01325 - Tire Pressure Monitoring Control Module No signal/communication
+            Intermittent
+                Priority:  2
+                Frequency counter:  1
+                Driving cycle: 201
+                Mileage: 176161 km
+
 
 ---------------------------------------------------------------
 04 Steering Angle Sensor
@@ -95,15 +105,21 @@ Date: 2022-10-22 16:20
         00061 - Footwell lights Open circuit/short circuit to B+
             Intermittent
                 Priority:  5
-                Frequency counter: 105
-                Driving cycle: 216
-                Mileage: 168542 km
+                Frequency counter: 254
+                Driving cycle: 202
+                Mileage: 170645 km
+        01320 - Climatronic control module No signal/communication
+            Intermittent
+                Priority:  6
+                Frequency counter:  1
+                Driving cycle: 199
+                Mileage: 176160 km
         01518 - Left back-up light bulb Open circuit/short circuit to B+
             Intermittent
                 Priority:  2
-                Frequency counter:  3
-                Driving cycle: 216
-                Mileage: 169208 km
+                Frequency counter:  1
+                Driving cycle: 199
+                Mileage: 176160 km
 
 
 ---------------------------------------------------------------
@@ -163,7 +179,13 @@ Date: 2022-10-22 16:20
         Serial number: 35627SME7B196628ZZZR
 
     Trouble codes:
-        No trouble codes found
+        B101614 - Frt.pass. side airbag disabled indicator lamp Open circuit/short circuit to ground
+            Intermittent
+                Mileage: 176160 km
+                Priority: 2
+                Malfunction frequency counter: 1
+                Unlearning counter: 255
+
 
 ---------------------------------------------------------------
 16 Steering Column
@@ -216,7 +238,25 @@ Date: 2022-10-22 16:20
     Long coding: 350002
 
     Trouble codes:
-        No trouble codes found
+        01320 - Climatronic control module No signal/communication
+            Intermittent
+                Priority:  2
+                Frequency counter:  1
+                Driving cycle: 199
+                Mileage: 176160 km
+        01300 - Navigation System with CD Drive Control Module No signal/communication
+            static
+                Priority:  2
+                Frequency counter:  1
+                Driving cycle: 60
+                Mileage: 173935 km
+        03272 - External audio source connection No signal/communication
+            Intermittent
+                Priority:  2
+                Frequency counter: 164
+                Driving cycle: 202
+                Mileage: 173935 km
+
 
 ---------------------------------------------------------------
 22 All Wheel Control
@@ -289,27 +329,8 @@ Date: 2022-10-22 16:20
     ODX version: A01004
     Long coding: 04050001010005000000100A
 
-    Subsystems:
-        System description: NAR_V2�������
-        Software number: 3AA919866B�
-        Software version: 0002
-
     Trouble codes:
-        B11CF53 - Tuner for satellite radio Deactivated
-            static
-                Date: 2122-12-10 08:53:14
-                Mileage: 169255 km
-                Priority: 7
-                Malfunction frequency counter: 1
-                Unlearning counter: 129
-        B200042 - Ctrl. module faulty
-            static
-                Date: 2087-12-29 20:18:56
-                Mileage: 143065 km
-                Priority: 4
-                Malfunction frequency counter: 1
-                Unlearning counter: 255
-
+        No trouble codes found
 
 ---------------------------------------------------------------
 42 Driver Door
@@ -391,6 +412,11 @@ Date: 2022-10-22 16:20
 ---------------------------------------------------------------
 56 Radio
 
+    System description: RadioSK46MID
+    Software number: 3TD035156
+    Software version: 0010
+    Hardware number: 3TD035156
+    Hardware version: 006
 
     Trouble codes:
         No trouble codes found

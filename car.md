@@ -1,14 +1,15 @@
+Pre pre body shop scan
 OBDeleven data log
 
-Date: 2023-03-28 12:12
+Date: 2023-05-15 17:50
 
     VIN: WVWPF7AJ2CW211134
     Car: Volkswagen Golf R
     Year: 2012
     Body type: 5-dr hatchback
     Engine: CRZA
-    Mileage: 176210 KM
-109491 miles 
+    Mileage: 178140 KM
+110690 MI
 
 ---------------------------------------------------------------
 01 Engine
@@ -20,12 +21,7 @@ Date: 2023-03-28 12:12
     Long coding: 0403010A180F0160
 
     Trouble codes:
-        P1602 - Power supply terminal 30 Voltage too low Lower limit not reached
-            Intermittent
-                Priority:  2
-                Frequency counter:  2
-                Driving cycle: 255
-
+        No trouble codes found
 
 ---------------------------------------------------------------
 03 Brakes
@@ -38,13 +34,7 @@ Date: 2023-03-28 12:12
     Long coding: 144B800C492300FB280C01E7921D0041B70000
 
     Trouble codes:
-        01325 - Tire Pressure Monitoring Control Module No signal/communication
-            Intermittent
-                Priority:  2
-                Frequency counter:  1
-                Driving cycle: 201
-                Mileage: 176161 km
-
+        No trouble codes found
 
 ---------------------------------------------------------------
 04 Steering Angle Sensor
@@ -94,33 +84,8 @@ Date: 2023-03-28 12:12
     Hardware version: 110
     Long coding: 6F180A3A90272AC4108800C170000CC44F052186774D8DB0E48420248040
 
-    Subsystems:
-        System description: Wischer 29111
-        Software number: 5K1955119 
-        Software version: 0512
-        Hardware version: 26
-        Long coding: 009795
-
     Trouble codes:
-        00061 - Footwell lights Open circuit/short circuit to B+
-            Intermittent
-                Priority:  5
-                Frequency counter: 254
-                Driving cycle: 202
-                Mileage: 170645 km
-        01320 - Climatronic control module No signal/communication
-            Intermittent
-                Priority:  6
-                Frequency counter:  1
-                Driving cycle: 199
-                Mileage: 176160 km
-        01518 - Left back-up light bulb Open circuit/short circuit to B+
-            Intermittent
-                Priority:  2
-                Frequency counter:  1
-                Driving cycle: 199
-                Mileage: 176160 km
-
+        No trouble codes found
 
 ---------------------------------------------------------------
 15 Airbag
@@ -135,57 +100,8 @@ Date: 2023-03-28 12:12
     ODX version: A01014
     Long coding: 00003131
 
-    Subsystems:
-        System description: BF-Gewichtss.
-        Software number: 5K0959339B
-        Software version: 0001
-        Hardware version: 006
-        Serial number: ---0000R--0000278J00
-
-        System description: S.Sens.Fahr.V
-        Software number: 5K0959354 
-        Software version: ----
-        Hardware version: H01
-        Serial number: 3572MSME1A70004AZZZP
-
-        System description: S.Sens.Beif.V
-        Software number: 5K0959354 
-        Software version: ----
-        Hardware version: H01
-        Serial number: 3582MSME4119024AZZZP
-
-        System description: S.Sens.Fahr.H
-        Software number:           
-        Software version: ----
-        Hardware version: ---
-        Serial number: 3512QSME622D6446ZZZY
-
-        System description: S.Sens.Beif.H
-        Software number:           
-        Software version: ----
-        Hardware version: ---
-        Serial number: 3522QSME603D6520ZZZR
-
-        System description: F.Sens.Fahr 
-        Software number:           
-        Software version: ----
-        Hardware version: ---
-        Serial number: 35527SME06534F29ZZZK
-
-        System description: F.Sens.Beif 
-        Software number:           
-        Software version: ----
-        Hardware version: ---
-        Serial number: 35627SME7B196628ZZZR
-
     Trouble codes:
-        B101614 - Frt.pass. side airbag disabled indicator lamp Open circuit/short circuit to ground
-            Intermittent
-                Mileage: 176160 km
-                Priority: 2
-                Malfunction frequency counter: 1
-                Unlearning counter: 255
-
+        No trouble codes found
 
 ---------------------------------------------------------------
 16 Steering Column
@@ -199,13 +115,6 @@ Date: 2023-03-28 12:12
     ODX name: EV_SMLSNGVOLWSXS
     ODX version: A01004
     Long coding: 1002140000
-
-    Subsystems:
-        System description: E221__MFL-TAS
-        Software number: 5K0959542A
-        Software version: 0013
-        Hardware version: H09
-        Long coding: 820000
 
     Trouble codes:
         No trouble codes found
@@ -238,25 +147,7 @@ Date: 2023-03-28 12:12
     Long coding: 350002
 
     Trouble codes:
-        01320 - Climatronic control module No signal/communication
-            Intermittent
-                Priority:  2
-                Frequency counter:  1
-                Driving cycle: 199
-                Mileage: 176160 km
-        01300 - Navigation System with CD Drive Control Module No signal/communication
-            static
-                Priority:  2
-                Frequency counter:  1
-                Driving cycle: 60
-                Mileage: 173935 km
-        03272 - External audio source connection No signal/communication
-            Intermittent
-                Priority:  2
-                Frequency counter: 164
-                Driving cycle: 202
-                Mileage: 173935 km
-
+        No trouble codes found
 
 ---------------------------------------------------------------
 22 All Wheel Control
@@ -396,15 +287,6 @@ Date: 2023-03-28 12:12
     Software version: 0148
     Hardware number: 5M0907357C
     Coding: 1479708
-
-    Subsystems:
-        System description: AFS-Lst.-Modul l
-        Software number: 7L6941329B
-        Software version: 0005
-
-        System description: AFS-Lst.-Modul r
-        Software number: 7L6941329B
-        Software version: 0005
 
     Trouble codes:
         No trouble codes found

@@ -1,14 +1,14 @@
 OBDeleven data log
 
-Date: 2023-07-14 17:38
+Date: 2023-07-20 19:34
 
     VIN: WVWPF7AJ2CW211134
     Car: Volkswagen Golf R
     Year: 2012
     Body type: 5-dr hatchback
     Engine: CRZA
-    Mileage: 179460 KM
-111512
+    Mileage: 179630 KM
+111620
 
 ---------------------------------------------------------------
 01 Engine

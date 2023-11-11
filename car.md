@@ -1,14 +1,14 @@
 OBDeleven data log
 
-Date: 2023-07-20 19:34
+Date: 2023-10-19 18:36
 
     VIN: WVWPF7AJ2CW211134
     Car: Volkswagen Golf R
     Year: 2012
     Body type: 5-dr hatchback
     Engine: CRZA
-    Mileage: 179630 KM
-111620
+    Mileage: 183000 KM
+             113712 MI
 
 ---------------------------------------------------------------
 01 Engine
@@ -91,7 +91,13 @@ Date: 2023-07-20 19:34
         Long coding: 009795
 
     Trouble codes:
-        No trouble codes found
+        00061 - Footwell lights Open circuit/short circuit to B+
+            Intermittent
+                Priority:  5
+                Frequency counter: 254
+                Driving cycle:  1
+                Mileage: 179639 km
+
 
 ---------------------------------------------------------------
 15 Airbag
@@ -203,7 +209,19 @@ Date: 2023-07-20 19:34
     Long coding: 350002
 
     Trouble codes:
-        No trouble codes found
+        01300 - Navigation System with CD Drive Control Module No signal/communication
+            static
+                Priority:  2
+                Frequency counter:  1
+                Driving cycle: 75
+                Mileage: 179639 km
+        03272 - External audio source connection No signal/communication
+            Intermittent
+                Priority:  2
+                Frequency counter: 200
+                Driving cycle:  0
+                Mileage: 179639 km
+
 
 ---------------------------------------------------------------
 22 All Wheel Control

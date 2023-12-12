@@ -1,14 +1,14 @@
 OBDeleven data log
 
-Date: 2023-10-19 18:36
+Date: 2023-12-05 15:44
 
     VIN: WVWPF7AJ2CW211134
     Car: Volkswagen Golf R
     Year: 2012
     Body type: 5-dr hatchback
     Engine: CRZA
-    Mileage: 183000 KM
-             113712 MI
+    Mileage: 184790 KM
+             114823 MI
 
 ---------------------------------------------------------------
 01 Engine
@@ -81,7 +81,7 @@ Date: 2023-10-19 18:36
     Software version: 0651
     Hardware number: 1K0937084G
     Hardware version: 110
-    Long coding: 6F180A3A98272AC4108800C170000CC44F052186774D8DB0E48420248040
+    Long coding: 6F180A3A88272AC4108800C170000CC44F052186774D8DB0E48420248040
 
     Subsystems:
         System description: Wischer 29111
@@ -94,9 +94,9 @@ Date: 2023-10-19 18:36
         00061 - Footwell lights Open circuit/short circuit to B+
             Intermittent
                 Priority:  5
-                Frequency counter: 254
-                Driving cycle:  1
-                Mileage: 179639 km
+                Frequency counter: 207
+                Driving cycle: 81
+                Mileage: 183006 km
 
 
 ---------------------------------------------------------------
@@ -213,14 +213,14 @@ Date: 2023-10-19 18:36
             static
                 Priority:  2
                 Frequency counter:  1
-                Driving cycle: 75
-                Mileage: 179639 km
+                Driving cycle: 217
+                Mileage: 183006 km
         03272 - External audio source connection No signal/communication
             Intermittent
                 Priority:  2
-                Frequency counter: 200
-                Driving cycle:  0
-                Mileage: 179639 km
+                Frequency counter: 124
+                Driving cycle: 81
+                Mileage: 183006 km
 
 
 ---------------------------------------------------------------

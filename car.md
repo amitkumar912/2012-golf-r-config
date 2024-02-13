@@ -1,14 +1,14 @@
 OBDeleven data log
 
-Date: 2023-12-05 15:44
+Date: 2024-02-10 14:07
 
     VIN: WVWPF7AJ2CW211134
     Car: Volkswagen Golf R
     Year: 2012
     Body type: 5-dr hatchback
     Engine: CRZA
-    Mileage: 184790 KM
-             114823 MI
+    Mileage: 186680 KM
+             115997 MI
 
 ---------------------------------------------------------------
 01 Engine
@@ -83,21 +83,8 @@ Date: 2023-12-05 15:44
     Hardware version: 110
     Long coding: 6F180A3A88272AC4108800C170000CC44F052186774D8DB0E48420248040
 
-    Subsystems:
-        System description: Wischer 29111
-        Software number: 5K1955119 
-        Software version: 0512
-        Hardware version: 26
-        Long coding: 009795
-
     Trouble codes:
-        00061 - Footwell lights Open circuit/short circuit to B+
-            Intermittent
-                Priority:  5
-                Frequency counter: 207
-                Driving cycle: 81
-                Mileage: 183006 km
-
+        No trouble codes found
 
 ---------------------------------------------------------------
 15 Airbag
@@ -111,49 +98,6 @@ Date: 2023-12-05 15:44
     ODX name: EV_AirbaVW10SMEVW360
     ODX version: A01014
     Long coding: 00003131
-
-    Subsystems:
-        System description: BF-Gewichtss.
-        Software number: 5K0959339B
-        Software version: 0001
-        Hardware version: 006
-        Serial number: ---0000R--0000278J00
-
-        System description: S.Sens.Fahr.V
-        Software number: 5K0959354 
-        Software version: ----
-        Hardware version: H01
-        Serial number: 3572MSME1A70004AZZZP
-
-        System description: S.Sens.Beif.V
-        Software number: 5K0959354 
-        Software version: ----
-        Hardware version: H01
-        Serial number: 3582MSME4119024AZZZP
-
-        System description: S.Sens.Fahr.H
-        Software number:           
-        Software version: ----
-        Hardware version: ---
-        Serial number: 3512QSME622D6446ZZZY
-
-        System description: S.Sens.Beif.H
-        Software number:           
-        Software version: ----
-        Hardware version: ---
-        Serial number: 3522QSME603D6520ZZZR
-
-        System description: F.Sens.Fahr 
-        Software number:           
-        Software version: ----
-        Hardware version: ---
-        Serial number: 35527SME06534F29ZZZK
-
-        System description: F.Sens.Beif 
-        Software number:           
-        Software version: ----
-        Hardware version: ---
-        Serial number: 35627SME7B196628ZZZR
 
     Trouble codes:
         No trouble codes found
@@ -170,13 +114,6 @@ Date: 2023-12-05 15:44
     ODX name: EV_SMLSNGVOLWSXS
     ODX version: A01004
     Long coding: 1002140000
-
-    Subsystems:
-        System description: E221__MFL-TAS
-        Software number: 5K0959542A
-        Software version: 0013
-        Hardware version: H09
-        Long coding: 820000
 
     Trouble codes:
         No trouble codes found
@@ -209,19 +146,7 @@ Date: 2023-12-05 15:44
     Long coding: 350002
 
     Trouble codes:
-        01300 - Navigation System with CD Drive Control Module No signal/communication
-            static
-                Priority:  2
-                Frequency counter:  1
-                Driving cycle: 217
-                Mileage: 183006 km
-        03272 - External audio source connection No signal/communication
-            Intermittent
-                Priority:  2
-                Frequency counter: 124
-                Driving cycle: 81
-                Mileage: 183006 km
-
+        No trouble codes found
 
 ---------------------------------------------------------------
 22 All Wheel Control
@@ -361,15 +286,6 @@ Date: 2023-12-05 15:44
     Software version: 0148
     Hardware number: 5M0907357C
     Coding: 1479708
-
-    Subsystems:
-        System description: AFS-Lst.-Modul l
-        Software number: 7L6941329B
-        Software version: 0005
-
-        System description: AFS-Lst.-Modul r
-        Software number: 7L6941329B
-        Software version: 0005
 
     Trouble codes:
         No trouble codes found

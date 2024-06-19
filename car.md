@@ -1,14 +1,14 @@
 OBDeleven data log
-
-Date: 2024-02-10 14:07
+Pre scan
+Date: 2024-06-16 14:42
 
     VIN: WVWPF7AJ2CW211134
     Car: Volkswagen Golf R
     Year: 2012
     Body type: 5-dr hatchback
     Engine: CRZA
-    Mileage: 186680 KM
-             115997 MI
+    Mileage: 192340 KM
+             119512 MI
 
 ---------------------------------------------------------------
 01 Engine
@@ -83,8 +83,27 @@ Date: 2024-02-10 14:07
     Hardware version: 110
     Long coding: 6F180A3A88272AC4108800C170000CC44F052186774D8DB0E48420248040
 
+    Subsystems:
+        System description: Wischer 29111
+        Software number: 5K1955119 
+        Software version: 0512
+        Hardware version: 26
+        Long coding: 009795
+
     Trouble codes:
-        No trouble codes found
+        00061 - Footwell lights Open circuit/short circuit to B+
+            static
+                Priority:  5
+                Frequency counter: 254
+                Driving cycle: 131
+                Mileage: 186683 km
+        01800 - Light switch Implausible signal
+            Intermittent
+                Priority:  3
+                Frequency counter:  7
+                Driving cycle: 171
+                Mileage: 192340 km
+
 
 ---------------------------------------------------------------
 15 Airbag
@@ -98,6 +117,49 @@ Date: 2024-02-10 14:07
     ODX name: EV_AirbaVW10SMEVW360
     ODX version: A01014
     Long coding: 00003131
+
+    Subsystems:
+        System description: BF-Gewichtss.
+        Software number: 5K0959339B
+        Software version: 0001
+        Hardware version: 006
+        Serial number: ---0000R--0000278J00
+
+        System description: S.Sens.Fahr.V
+        Software number: 5K0959354 
+        Software version: ----
+        Hardware version: H01
+        Serial number: 3572MSME1A70004AZZZP
+
+        System description: S.Sens.Beif.V
+        Software number: 5K0959354 
+        Software version: ----
+        Hardware version: H01
+        Serial number: 3582MSME4119024AZZZP
+
+        System description: S.Sens.Fahr.H
+        Software number:           
+        Software version: ----
+        Hardware version: ---
+        Serial number: 3512QSME622D6446ZZZY
+
+        System description: S.Sens.Beif.H
+        Software number:           
+        Software version: ----
+        Hardware version: ---
+        Serial number: 3522QSME603D6520ZZZR
+
+        System description: F.Sens.Fahr 
+        Software number:           
+        Software version: ----
+        Hardware version: ---
+        Serial number: 35527SME06534F29ZZZK
+
+        System description: F.Sens.Beif 
+        Software number:           
+        Software version: ----
+        Hardware version: ---
+        Serial number: 35627SME7B196628ZZZR
 
     Trouble codes:
         No trouble codes found
@@ -114,6 +176,13 @@ Date: 2024-02-10 14:07
     ODX name: EV_SMLSNGVOLWSXS
     ODX version: A01004
     Long coding: 1002140000
+
+    Subsystems:
+        System description: E221__MFL-TAS
+        Software number: 5K0959542A
+        Software version: 0013
+        Hardware version: H09
+        Long coding: 820000
 
     Trouble codes:
         No trouble codes found
@@ -146,7 +215,19 @@ Date: 2024-02-10 14:07
     Long coding: 350002
 
     Trouble codes:
-        No trouble codes found
+        01300 - Navigation System with CD Drive Control Module No signal/communication
+            static
+                Priority:  2
+                Frequency counter:  1
+                Driving cycle: 137
+                Mileage: 186683 km
+        03272 - External audio source connection No signal/communication
+            Intermittent
+                Priority:  2
+                Frequency counter: 254
+                Driving cycle: 171
+                Mileage: 186683 km
+
 
 ---------------------------------------------------------------
 22 All Wheel Control
@@ -286,6 +367,15 @@ Date: 2024-02-10 14:07
     Software version: 0148
     Hardware number: 5M0907357C
     Coding: 1479708
+
+    Subsystems:
+        System description: AFS-Lst.-Modul l
+        Software number: 7L6941329B
+        Software version: 0005
+
+        System description: AFS-Lst.-Modul r
+        Software number: 7L6941329B
+        Software version: 0005
 
     Trouble codes:
         No trouble codes found

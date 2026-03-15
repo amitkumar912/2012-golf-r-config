@@ -1,14 +1,14 @@
 OBDeleven data log
-Pre scan
-Date: 2024-06-16 14:42
+
+Date: 2024-06-23 12:44
 
     VIN: WVWPF7AJ2CW211134
     Car: Volkswagen Golf R
     Year: 2012
     Body type: 5-dr hatchback
     Engine: CRZA
-    Mileage: 192340 KM
-             119512 MI
+    Mileage: 192530 KM
+119632 MI
 
 ---------------------------------------------------------------
 01 Engine
@@ -94,15 +94,15 @@ Date: 2024-06-16 14:42
         00061 - Footwell lights Open circuit/short circuit to B+
             static
                 Priority:  5
-                Frequency counter: 254
-                Driving cycle: 131
-                Mileage: 186683 km
+                Frequency counter: 19
+                Driving cycle: 145
+                Mileage: 192340 km
         01800 - Light switch Implausible signal
             Intermittent
                 Priority:  3
-                Frequency counter:  7
-                Driving cycle: 171
-                Mileage: 192340 km
+                Frequency counter: 22
+                Driving cycle: 185
+                Mileage: 192359 km
 
 
 ---------------------------------------------------------------
@@ -219,14 +219,14 @@ Date: 2024-06-16 14:42
             static
                 Priority:  2
                 Frequency counter:  1
-                Driving cycle: 137
-                Mileage: 186683 km
+                Driving cycle: 131
+                Mileage: 192340 km
         03272 - External audio source connection No signal/communication
             Intermittent
                 Priority:  2
-                Frequency counter: 254
-                Driving cycle: 171
-                Mileage: 186683 km
+                Frequency counter: 17
+                Driving cycle: 185
+                Mileage: 192340 km
 
 
 ---------------------------------------------------------------

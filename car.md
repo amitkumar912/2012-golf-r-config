@@ -1,14 +1,13 @@
 OBDeleven data log
 
-Date: 2025-07-31 17:48
+Date: 2026-03-13 16:17
 
     VIN: WVWPF7AJ2CW211134
     Car: Volkswagen Golf R
     Year: 2012
     Body type: 5-dr hatchback
     Engine: CRZA
-    Mileage: 205930 KM
-             127958 MI
+    Mileage: 214320 KM
 
 ---------------------------------------------------------------
 01 Engine
@@ -20,7 +19,25 @@ Date: 2025-07-31 17:48
     Long coding: 0403010A180F0160
 
     Trouble codes:
-        No trouble codes found
+        P0300 - Random Misfire Detected No Sub Type Information Implausible signal
+            Intermittent
+                Priority:  2
+                Frequency counter:  2
+                Driving cycle: 255
+                Mileage: 213517 km
+        P0301 - Cylinder 1 Misfire Detected No Sub Type Information Implausible signal
+            Intermittent
+                Priority:  2
+                Frequency counter:  1
+                Driving cycle: 255
+                Mileage: 213517 km
+        P0302 - Cylinder 2 Misfire Detected No Sub Type Information Implausible signal
+            Intermittent
+                Priority:  2
+                Frequency counter:  1
+                Driving cycle: 255
+                Mileage: 214106 km
+
 
 ---------------------------------------------------------------
 03 Brakes
@@ -82,13 +99,6 @@ Date: 2025-07-31 17:48
     Hardware number: 1K0937084G
     Hardware version: 110
     Long coding: 6F180A3A88272AC4108800C170000CC44F652186774D8DB0E48420248040
-
-    Subsystems:
-        System description: Wischer 29111
-        Software number: 5K1955119 
-        Software version: 0512
-        Hardware version: 26
-        Long coding: 009795
 
     Trouble codes:
         No trouble codes found
@@ -203,12 +213,24 @@ Date: 2025-07-31 17:48
     Long coding: 350002
 
     Trouble codes:
+        01336 - Comfort CAN bus Faulty
+            Intermittent
+                Priority:  1
+                Frequency counter:  1
+                Driving cycle: 255
+                Mileage: 213325 km
         01300 - Navigation System with CD Drive Control Module No signal/communication
             static
                 Priority:  2
                 Frequency counter:  1
-                Driving cycle: 227
-                Mileage: 205932 km
+                Driving cycle: 75
+                Mileage: 208445 km
+        03272 - External audio source connection No signal/communication
+            Intermittent
+                Priority:  2
+                Frequency counter: 254
+                Driving cycle: 136
+                Mileage: 208445 km
 
 
 ---------------------------------------------------------------
@@ -397,6 +419,3 @@ Date: 2025-07-31 17:48
 
     Trouble codes:
         No trouble codes found
-
-
-

@@ -1,14 +1,14 @@
 OBDeleven data log
 
-Date: 2024-06-23 12:44
+Date: 2024-12-08 17:34
 
     VIN: WVWPF7AJ2CW211134
     Car: Volkswagen Golf R
     Year: 2012
     Body type: 5-dr hatchback
     Engine: CRZA
-    Mileage: 192530 KM
-119632 MI
+    Mileage: 197030 KM
+             122430 MI
 
 ---------------------------------------------------------------
 01 Engine
@@ -81,7 +81,7 @@ Date: 2024-06-23 12:44
     Software version: 0651
     Hardware number: 1K0937084G
     Hardware version: 110
-    Long coding: 6F180A3A88272AC4108800C170000CC44F052186774D8DB0E48420248040
+    Long coding: 6F180A3A88272AC4108800C170000CC44F652186774D8DB0E48420248040
 
     Subsystems:
         System description: Wischer 29111
@@ -91,18 +91,12 @@ Date: 2024-06-23 12:44
         Long coding: 009795
 
     Trouble codes:
-        00061 - Footwell lights Open circuit/short circuit to B+
-            static
-                Priority:  5
-                Frequency counter: 19
-                Driving cycle: 145
-                Mileage: 192340 km
         01800 - Light switch Implausible signal
             Intermittent
                 Priority:  3
-                Frequency counter: 22
-                Driving cycle: 185
-                Mileage: 192359 km
+                Frequency counter: 254
+                Driving cycle: 165
+                Mileage: 192533 km
 
 
 ---------------------------------------------------------------
@@ -215,18 +209,24 @@ Date: 2024-06-23 12:44
     Long coding: 350002
 
     Trouble codes:
+        01336 - Combination Comfort databus Faulty
+            Intermittent
+                Priority:  1
+                Frequency counter:  1
+                Driving cycle: 255
+                Mileage: 194335 km
         01300 - Navigation System with CD Drive Control Module No signal/communication
             static
                 Priority:  2
                 Frequency counter:  1
-                Driving cycle: 131
-                Mileage: 192340 km
+                Driving cycle: 146
+                Mileage: 192533 km
         03272 - External audio source connection No signal/communication
             Intermittent
                 Priority:  2
-                Frequency counter: 17
-                Driving cycle: 185
-                Mileage: 192340 km
+                Frequency counter: 254
+                Driving cycle: 165
+                Mileage: 192533 km
 
 
 ---------------------------------------------------------------
